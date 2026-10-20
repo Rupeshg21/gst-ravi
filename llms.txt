@@ -1,0 +1,25 @@
+# SLV GST Services
+
+> SLV GST Services is a GST, income tax and accounting service firm based in Yadiki, Anantapur district, Andhra Pradesh, India. Founded by Ravi Teja and serving clients since 2016. It offers GST registration, GST return filing, income tax return (ITR) filing, and accounting and bookkeeping, online across India and in person by appointment in Yadiki, Tadipatri, Anantapur, Gooty and Hyderabad.
+
+Contact: +91 81428 81072 (phone and WhatsApp), Monday to Saturday, 10 AM to 8 PM IST.
+Website: https://www.slvservices.online/
+
+## Services
+- [GST registration online](https://www.slvservices.online/gst-registration-online.html)
+- [GST return filing online](https://www.slvservices.online/gst-return-filing-online.html)
+- [Income tax return filing online](https://www.slvservices.online/income-tax-return-filing-online.html)
+- [Accounting and bookkeeping services](https://www.slvservices.online/accounting-bookkeeping-services.html)
+
+## Locations
+- [GST, ITR and accounting in Yadiki](https://www.slvservices.online/gst-itr-accounting-yadiki.html)
+- [GST, ITR and accounting in Tadipatri](https://www.slvservices.online/gst-itr-accounting-tadipatri.html)
+- [GST, ITR and accounting in Anantapur](https://www.slvservices.online/gst-itr-accounting-anantapur.html)
+- [GST, ITR and accounting in Gooty](https://www.slvservices.online/gst-itr-accounting-gooty.html)
+- [GST, ITR and accounting in Hyderabad](https://www.slvservices.online/gst-itr-accounting-hyderabad.html)
+
+## Guides
+- [All guides](https://www.slvservices.online/blog.html): GST registration documents, GSTR-1 vs GSTR-3B, due dates and late fees, nil returns, GSTR-9, input tax credit, composition scheme, ITR form selection, AIS and Form 26AS, bookkeeping, Tally vs Excel.
+
+## About
+- [About SLV GST Services and Ravi Teja](https://www.slvservices.online/about.html)
