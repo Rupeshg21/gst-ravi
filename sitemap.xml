@@ -1,1 +1,144 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://www.slvservices.online/</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gst-registration-online.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gst-return-filing-online.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/income-tax-return-filing-online.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/accounting-bookkeeping-services.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/blog.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/bookkeeping-basics-small-business.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gstr-1-vs-gstr-3b-difference.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/tally-vs-excel-small-business.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/common-gst-filing-mistakes.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gst-registration-documents-checklist.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gst-return-due-dates-late-fees.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/how-to-file-nil-gst-return.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gstr-9-annual-return-guide.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/which-itr-form-to-file.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/ais-form-26as-before-filing-itr.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/input-tax-credit-itc-explained.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gst-composition-scheme-explained.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gst-registration-for-freelancers.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gst-itr-accounting-yadiki.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gst-itr-accounting-tadipatri.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gst-itr-accounting-anantapur.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gst-itr-accounting-gooty.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/gst-itr-accounting-hyderabad.html</loc><lastmod>2026-10-21</lastmod></url><url><loc>https://www.slvservices.online/about.html</loc><lastmod>2026-10-21</lastmod></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- ── Core pages ───────────────────────────── -->
+  <url>
+    <loc>https://www.slvservices.online/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- ── Service pages ────────────────────────── -->
+  <url>
+    <loc>https://www.slvservices.online/gst-registration-online.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/gst-return-filing-online.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/income-tax-return-filing-online.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/accounting-bookkeeping-services.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ── Company pages ────────────────────────── -->
+  <url>
+    <loc>https://www.slvservices.online/about.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/reviews.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ── Blog articles ────────────────────────── -->
+  <url>
+    <loc>https://www.slvservices.online/bookkeeping-basics-small-business.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/gstr-1-vs-gstr-3b-difference.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/tally-vs-excel-small-business.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/common-gst-filing-mistakes.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/gst-registration-documents-checklist.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/gst-return-due-dates-late-fees.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/how-to-file-nil-gst-return.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/gstr-9-annual-return-guide.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/which-itr-form-to-file.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/ais-form-26as-before-filing-itr.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/input-tax-credit-itc-explained.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/gst-composition-scheme-explained.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/gst-registration-for-freelancers.html</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- ── Area pages ────────────────────────────── -->
+  <url>
+    <loc>https://www.slvservices.online/gst-itr-accounting-yadiki.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/gst-itr-accounting-tadipatri.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/gst-itr-accounting-anantapur.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/gst-itr-accounting-gooty.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.slvservices.online/gst-itr-accounting-hyderabad.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
