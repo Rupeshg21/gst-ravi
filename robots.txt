@@ -1,25 +1,7 @@
 User-agent: *
 Allow: /
 
-User-agent: GPTBot
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: Claude-SearchBot
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
+# Block no pages — everything on this site should be indexed
+# If you add any admin or private paths in future, Disallow them here
 
 Sitemap: https://www.slvservices.online/sitemap.xml
